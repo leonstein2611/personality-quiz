@@ -226,6 +226,10 @@ The deployment makes it possible to use the quiz outside the local development e
 
 The project was built as a functional web application for an artistic concept and includes both the interactive user experience and a backend for collecting and evaluating results.
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
+
 ## Author
 
 **Leon Stein**
